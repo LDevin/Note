@@ -1,0 +1,3 @@
+1：git remote add origin <github的路径（ssh或者http的都行）>， 
+如果在北大git bash下添加这句话报fatal: remote origin already exists，说明本地的存在git指向的路径，把它先删除。
+2：删除，git remote rm origin
